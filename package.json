@@ -12,7 +12,7 @@
     "@google/genai": "^0.13.0",
     "axios": "^1.10.0",
     "btch-downloader": "^2.8.4",
-    "cheerio": "github:Rapikz-kwontwol/cheerio",
+    "cheerio": "github:iyayn-ajah/cheerio",
     "crypto": "^1.0.1",
     "file-type": "^16.5.3",
     "form-data": "^4.0.0",
